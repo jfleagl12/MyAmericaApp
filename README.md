@@ -1,6 +1,5 @@
-# Our USA
-
-TODO: fill this out
+# My America App
+For learning about your elected officials in the Senate and House of Representatives.
 
 ## Useful commands
 
